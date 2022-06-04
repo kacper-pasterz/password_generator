@@ -1,6 +1,5 @@
 import sys
 import random
-import string
 
 password =[]
 char_left = -1
